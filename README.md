@@ -25,7 +25,7 @@ cd FactCheck-MVP
 #### Create Virtual Environment & Install Dependencies
 ```
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv\Scripts\activate
 pip install -r requirements.txt
 ```
 #### Add API Keys
